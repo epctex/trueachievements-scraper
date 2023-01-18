@@ -201,7 +201,7 @@ The structure of each item in TrueAchievements looks like this:
 	"medium": "Physical and Digital",
 	"size": "16.92GB",
 	"completionEstimate": "N/A",
-	"links": "https://milestone.it/games/monster-energy-supercross-4/",
+	"link": "https://milestone.it/games/monster-energy-supercross-4/",
 	"screenshots": [
 		"https://ip.trueachievements.com/remote/www.trueachievements.com/customimages/121262.jpg?width=900",
 		"https://ip.trueachievements.com/remote/store-images.s-microsoft.com/image/apps.42544.14569410385401135.4de05eee-3e44-4aba-922b-26e29bd33651.99e4f626-4c1c-46df-849a-d8f845f1a570?width=900",
